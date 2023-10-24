@@ -711,7 +711,7 @@ header .circle {
   overflow: hidden;
   background-color: #fff;
   width: 100vw;
-  margin-left: 2rem;
+  margin-left: 0rem;
 }
 
 .about img {
